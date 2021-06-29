@@ -9,6 +9,9 @@ navbar:
     - text: "GIS Work"
       icon: fa-map-marked-alt
       href: geog13.html
+    - text: "My CV"
+      icon: fa-user-alt
+      href: cv.html
   right:
     - icon: fa-github
       href: https://github.com/laurenwhightsil/laurenwhightsil
