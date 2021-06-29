@@ -1,0 +1,17 @@
+name: "LaurenWhightsil-website"
+output_dir: "."
+navbar:
+  title: "myspatial"
+  left:
+    - text: "Home"
+      icon: fa-home
+      href: index.html
+    - text: "GIS Work"
+      icon: fa-map-marked-alt
+      href: geog13.html
+  right:
+    - icon: fa-github
+      href: https://github.com/laurenwhightsil/laurenwhightsil
+output:
+  html_document:
+    theme: readable
