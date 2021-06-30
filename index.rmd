@@ -1,15 +1,18 @@
 ---
 title: "About Me"
+output:
+  html_document:
+    df_print: paged
 ---
 
 <center>
   # Hi, I'm Lauren Whightsil.
 </center>
 
-I am an undergraduate student at the University of California at Santa Barbara (UCSB), pursuing a B.A. in Geography and emphasis in G.I.S. I am currently interning as a Mapping GIS Analyst for UCSB's Environmental Health & Safety. During my free time, I enjoy rollerskating, exploring the outdoors, reading, and listening to podcasts, such as [The MapScaping Podcast](https://open.spotify.com/show/57EmXdDgrUNYxtrer6LVsI?si=ANefhTBbR6Ceo01_TkV4_w&dl_branch=1). In my time remaining at UCSB, I look forward to learning more about spatial data science, programming, and GIS.
+I am an undergraduate student at the University of California at Santa Barbara (UCSB), pursuing a B.A. in Geography and emphasis in Geographic Information Science (GIS). I am currently interning as a Mapping GIS Analyst for UCSB's Environmental Health & Safety. During my free time, I enjoy rollerskating, exploring the outdoors, reading, and listening to podcasts, such as [The MapScaping Podcast](https://open.spotify.com/show/57EmXdDgrUNYxtrer6LVsI?si=ANefhTBbR6Ceo01_TkV4_w&dl_branch=1). In my time remaining at UCSB, I look forward to learning more about spatial data science, programming, and GIS.
 
 *****
 
 <center>
-![](../img/IMG_laurensmiley.heic){width="80%"}
+![](img/IMG_5512.jpg){width=50%}
 </center>
