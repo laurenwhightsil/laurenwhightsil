@@ -10,3 +10,10 @@ In the summer of 2021, I took a spatial data science course based in R. It intro
 - The code and files for this site are stored and organized in a Github repository.
 - Toolkits, such as Bootstrap, enable navigation by redirecting one from the home page to other pages via the navbar.
 - I used [Bootswatch](https://bootswatch.com/3/) to add a theme to my website.
+
+## [Data Wrangling: COVID-19 Pandemic](https://laurenwhightsil.github.io/geog-13-labs/lab-02.html)
+
+- I used New York Times COVID-19 Data and USDA Population Data to analyze cases of the virus
+across U.S. counties, working primarily with daily new cases, total case counts, state rolling 7-day mean cases, and cases per capita.
+- I wrote programmatic requests to enable the data to update with daily additions made to the url of supporting COVID-19 data.
+- I mapped the migration of the weighted mean coordinate location of COVID-19 cases through time, scaling the mean center points with nationwide cumulative cases in relation to the current case counts.
