@@ -16,4 +16,4 @@ In the summer of 2021, I took a spatial data science course based in R. It intro
 - I used New York Times COVID-19 Data and USDA Population Data to analyze cases of the virus
 across U.S. counties, working primarily with daily new cases, total case counts, state rolling 7-day mean cases, and cases per capita.
 - I wrote programmatic requests to enable the data to update with daily additions made to the url of supporting COVID-19 data.
-- I mapped the migration of the weighted mean coordinate location of COVID-19 cases through time, scaling the mean center points with nationwide cumulative cases in relation to the current case counts.
+- I mapped the migration of the weighted mean coordinate locations of COVID-19 cases through time, scaling the mean center points with nationwide cumulative cases in relation to the current case counts.
