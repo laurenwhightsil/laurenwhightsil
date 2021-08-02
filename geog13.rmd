@@ -18,8 +18,26 @@ across U.S. counties, working primarily with daily new cases, total case counts,
 - I wrote programmatic requests to enable the data to update with daily additions made to the url of supporting COVID-19 data.
 - I mapped the migration of the weighted mean coordinate locations of COVID-19 cases through time, scaling the mean center points with nationwide cumulative cases in relation to the current case counts.
 
+<center>
+![](img/weightedmeancenter.png){width=90%}
+</center>
+
 ## [Distances and Projections](https://laurenwhightsil.github.io/geog-13-labs/lab-03.html)
 
 - I worked with spatial (sf) objects and coordinate systems and converted from MULTIPOLYGON to MULTILINESTRING geometries, in order to visualize country and state borders.
 - I wrote functions to hasten coding that involved repeated use of the same code.
 - I learned to use gghighlight to show only the pertaining data in color and lty to create dashed boundaries.
+
+<center>
+![](img/10popborderzone.png){width=70%}
+</center>
+
+## [Tessellations and Point-in-Polygon Analyses of Dams in the US ](https://laurenwhightsil.github.io/geog-13-labs/lab-04.html)
+
+- I created tessellated surfaces of US county centroids and grid coverages intersected to the boundaries of the contiguous United States.
+- Using data from the US Army Corp of Engineers' National Dam Inventory (NID), I mapped the spatial distribution of dams in the tessellations, noting that tile size can be deceptive (see: [The Modifiable Areal Unit Problem (MAUP)](https://www.gislounge.com/modifiable-areal-unit-problem-gis/))
+- I created point-in-polygon visualizations for dams of specific purposes, such as recreation and flood control.
+
+<center>
+![](img/Lab4FloodControl.png){width=70%}
+</center>
